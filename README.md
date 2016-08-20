@@ -21,12 +21,12 @@ pip install --user pygithub
 
 # Usage
 
-## `collect-private.py`
+## `collect_private.py`
 
 ### Usage:
 
 ```
-python collect-private.py org-name repo-pattern file-pattern destination
+python collect_private.py org-name repo-pattern file-pattern destination
 ```
 
 ### Use case:
