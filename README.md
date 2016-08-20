@@ -6,7 +6,7 @@ A set of scripts, based on PyGithub, to collect files with particular naming con
 
 You need to be able to install the Python add-on library pygithub with `pip`.
 
-If the following commands fail, see [installing_pip.md](installing_pip.md) for hints.
+If the following commands fail, see [INSTALLING_PIP.md](INSTALLING_PIP.md) for hints.
 
 For example:
 ```
