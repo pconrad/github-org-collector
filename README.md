@@ -2,6 +2,22 @@
 A set of scripts, based on PyGithub, to collect files with particular naming conventions from a github org
 
 
+# External dependencies
+
+You need to be able to install the Python add-on library pygithub with `pip`.
+
+If the following commands fail, see [installing_pip.md](installing_pip.md) for hints.
+
+For example:
+```
+pip install pygithub
+```
+
+If you are working on a Unix system where don't have sudo privileges, you might have success with this command; it only installs pygithub for the current user (by placing files in a hidden directory in the user's `$HOME` directory:
+
+```
+pip install --user pygithub
+```
 
 # Usage
 
