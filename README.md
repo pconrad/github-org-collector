@@ -11,6 +11,7 @@ For example:
 ```
 pip install pygithub
 pip install pycurl
+pip install requests
 ```
 
 In particular, this script depends on `pygithub` and `pycurl`, both of which 
@@ -24,6 +25,7 @@ If you are working on a Unix system where don't have sudo privileges, you might 
 ```
 pip install --user pygithub
 pip install --user pycurl
+pip install --user requests
 ```
 
 # The .pdf collector example
